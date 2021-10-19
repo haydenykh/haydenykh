@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, It's me Minecraft55665</h1>
-<h3 align="center">A non-self taught programmer. ```sad```</h3>
+<h3 align="center">A not really a self taught programmer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=minecraft55665&label=Profile%20views&color=0e75b6&style=flat" alt="minecraft55665" /> </p>
 
