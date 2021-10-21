@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://twitter.com/haydenyong0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haydenyong0" height="30" width="40" /></a>
 <a href="https://fb.com/hayden.lovegaming" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hayden.lovegaming" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/UCKOrnXs1dbjJYCK6pAo2_jg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="duddleisa1" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCKOrnXs1dbjJYCK6pAo2_jg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="duddleisa1" height="30" width="40" /></a>
 <a href="https://discord.gg/G2VSzuatFA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nYexYMMPP9" height="30" width="40" /></a>
 </p>
 
