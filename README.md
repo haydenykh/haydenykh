@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Java, JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://github.io/Minecraft55665](https://github.io/Minecraft55665)
+- 👨‍💻 All of my projects are available at [https://github.com/Minecraft55665](https://github.io/Minecraft55665)
 
 - 📫 How to reach me **yonghayden68@gmail.com**
 
