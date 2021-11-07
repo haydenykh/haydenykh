@@ -20,6 +20,7 @@ My Social Media:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Minecraft55665)
 ---
 My Profile Views:
+
 ![Profile views](https://gpvc.arturio.dev/Minecraft55665)
 ---
 My Trophies:
