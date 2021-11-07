@@ -7,4 +7,4 @@ These are my stats:
 
 My most used program languages:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecraft55665&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecraft55665)](https://github.com/anuraghazra/github-readme-stats)
