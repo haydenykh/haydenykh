@@ -19,9 +19,9 @@ My Social Media:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCKOrnXs1dbjJYCK6pAo2_jg)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Minecraft55665)
 ---
-My Profile Views:
+Languages
 
-![Profile views](https://gpvc.arturio.dev/Minecraft55665)
+![JavaScript](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgEbxdrn3tQ9N6Brhbrx5VJgMFbp6RsWtPIMymsHcFYCwVbHSPe_IrHTw9r4px-V18dqk&usqp=CAU5)
 ---
 My Trophies:
 
