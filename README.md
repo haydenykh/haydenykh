@@ -23,6 +23,5 @@ My Trophies:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Minecraft55665)](https://github.com/ryo-ma/github-profile-trophy)
 ---
-My Github Metrics:
-
-![GitHub metrics](https://metrics.lecoq.io/Minecraft55665)
+Interested on Minecraft? 
+Join my Friend's Minecraft **Discord Server**: https://discord.gg/6manBTHUy9
