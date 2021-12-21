@@ -7,6 +7,15 @@
 ## Languages and Tools
 
 ---
+## Stats Card
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minecraft55665&show_icons=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+
+## Pinned Repos
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minecraft55665&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Most Used Lang
+
+---
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [Random Clones in Roblox Bedwars &lpar;#shorts&rpar;](https://www.youtube.com/watch?v=ply8gwuBgRw)
