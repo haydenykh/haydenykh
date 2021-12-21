@@ -8,7 +8,7 @@
 
 ---
 ## Stats Card
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minecraft55665&show_icons=true&border_radius=10&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minecraft55665&show_icons=true&border_radius=10&layout=compact&bg_color=#242424&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Most Used Lang
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minecraft55665&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
