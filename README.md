@@ -1,5 +1,5 @@
 # Hi There!
-## I'm a rxandom programmer.
+## I'm a random programmer.
 - 🌱 I’m currently learning **JavaScript**, **Python**, **React**
 - ⚡ Fun Fact: I love to play video games.
 ## Connect With Me!
