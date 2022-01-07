@@ -15,6 +15,8 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/minecraft55665?color=202020&label=Github%20Followers&style=for-the-badge)
 
+![Twitter Follow](https://img.shields.io/twitter/follow/duddleisa1_main?color=202020&label=Twitter%20%40duddleisa1_main&style=for-the-badge)
+
 ---
 
 ## Stats Card
