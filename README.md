@@ -11,7 +11,7 @@
 
 ---
 
-## Badges
+## Shields
 
 ![GitHub followers](https://img.shields.io/github/followers/minecraft55665?color=202020&label=Github%20Followers&style=for-the-badge)
 
