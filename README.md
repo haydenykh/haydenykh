@@ -38,9 +38,9 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Don&#39;t Press This Video 🤫 &lpar;#shorts&rpar;](https://www.youtube.com/watch?v=1XyBgrlSO5k)
 - [This Is Weird &lpar;#shorts&rpar;](https://www.youtube.com/watch?v=7H6jyn4mJns)
 - [🎉 30 Subscribers!!!](https://www.youtube.com/watch?v=v5TylnyefuA)
 - [Random Clones in Roblox Bedwars &lpar;#shorts&rpar;](https://www.youtube.com/watch?v=ply8gwuBgRw)
 - [Roblox Bedwars Lucky Block Update](https://www.youtube.com/watch?v=q2cWUiAzlcQ)
-- [New Sun Hack Damage](https://www.youtube.com/watch?v=jLvxWP1rHko)
 <!-- YOUTUBE:END -->
