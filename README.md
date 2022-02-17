@@ -38,7 +38,7 @@
 ## Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Don&#39;t Press This Video 🤫 &lpar;#shorts&rpar;](https://www.youtube.com/watch?v=1XyBgrlSO5k)
+- [Someone uses JoJo references to destroy toilet paper &lpar;#shorts&rpar;](https://www.youtube.com/watch?v=pWxVK53dkhQ)
 - [This Is Weird &lpar;#shorts&rpar;](https://www.youtube.com/watch?v=7H6jyn4mJns)
 - [🎉 30 Subscribers!!!](https://www.youtube.com/watch?v=v5TylnyefuA)
 - [Random Clones in Roblox Bedwars &lpar;#shorts&rpar;](https://www.youtube.com/watch?v=ply8gwuBgRw)
