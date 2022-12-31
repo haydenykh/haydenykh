@@ -40,6 +40,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=minecraft55665&show_icons=true&theme=dark&locale=en&layout=compact" alt="minecraft55665" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minecraft55665&show_icons=true&theme=dark&hide_border=true&locale=en" alt="minecraft55665" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minecraft55665&show_icons=true&theme=dark&locale=en" alt="minecraft55665" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minecraft55665&theme=dark" alt="minecraft55665" /></p>
