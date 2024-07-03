@@ -132,7 +132,9 @@
 
 ###
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jdfdyvhimbrqtd5fz3i59kn74&count=14)
+<br clear="both">
+
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdfdyvhimbrqtd5fz3i59kn74&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdfdyvhimbrqtd5fz3i59kn74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
 
 ###
 
