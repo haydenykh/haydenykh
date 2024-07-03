@@ -1,16 +1,13 @@
-<br clear="both">
 
 <h1 align="left">Hi there!</h1>
 
 ###
 
-<br clear="both">
 
 <p align="left">you can call me Hayden.</p>
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://profile-counter.glitch.me/haydenykh/count.svg?"  />
@@ -18,7 +15,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=haydenykh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1&custom_title=My%20Statistics" height="128" alt="stats graph"  />
@@ -28,13 +24,11 @@
 
 ###
 
-<br clear="both">
 
 <h6 align="center">my social medias</h6>
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <a href="https://twitter.com/@haydenykh_" target="_blank">
@@ -62,13 +56,11 @@
 
 ###
 
-<br clear="both">
 
 <h6 align="center">known languages</h6>
 
 ###
 
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="26" alt="vscode logo"  />
@@ -127,7 +119,6 @@
 <!--
 ###
 
-<br clear="both">
 
 <h6 align="center">recently played Spotify song</h6>
 
@@ -137,7 +128,6 @@
 
 ###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/haydenykh/haydenykh/output/snake.svg" alt="Snake animation" />
 
