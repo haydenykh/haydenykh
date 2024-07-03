@@ -132,7 +132,7 @@
 
 ###
 
-<p align="center">![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jdfdyvhimbrqtd5fz3i59kn74&count=14)</p>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jdfdyvhimbrqtd5fz3i59kn74&count=14)
 
 ###
 
