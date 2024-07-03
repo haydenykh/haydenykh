@@ -16,7 +16,7 @@
 ###
 
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=haydenykh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1&custom_title=My%20Statistics" height="128" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haydenykh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=discord_old_blurple&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="128" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=haydenykh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="128" alt="streak graph"  />
