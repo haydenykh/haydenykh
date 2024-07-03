@@ -124,6 +124,7 @@
   <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="26" alt="stackoverflow logo"  />
 </div>
 
+<!--
 ###
 
 <br clear="both">
@@ -132,9 +133,7 @@
 
 ###
 
-<br clear="both">
-
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdfdyvhimbrqtd5fz3i59kn74&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdfdyvhimbrqtd5fz3i59kn74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)]]
+<p align="center">[![Spotify recently played](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdfdyvhimbrqtd5fz3i59kn74&redirect=true\)\](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdfdyvhimbrqtd5fz3i59kn74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)</p>
 
 ###
 
@@ -143,3 +142,4 @@
 <img src="https://raw.githubusercontent.com/haydenykh/haydenykh/output/snake.svg" alt="Snake animation" />
 
 ###
+-->
