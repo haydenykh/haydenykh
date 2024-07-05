@@ -1,135 +1,43 @@
+Hi 👋 My name is Hayden
+=======================
 
-<h1 align="left">Hi there!</h1>
+a Student
+---------
 
-###
+I've been learning code since 2020, my friend introduced me to this topic and I find it very enjoyable and interesting. My most learnt language is Luau which is Roblox's main programming language. I try to use TypeScript using the roblox-ts framework and I'm still trying to figure out how things work. Even though I've been coding since 2020, my programming knowledge is still not very well.
 
+* 🌍  I'm based in Kuala Lumpur
+* 🖥️  See my portfolio at [Linktree](http://linktr.ee/haydenykh)
+* ✉️  You can contact me at [yonghayden68@gmail.com](mailto:yonghayden68@gmail.com)
+* 🧠  I'm learning Java, JavaScript, TypeScript, Luau
+* 🤝  I'm open to collaborating on my Minecraft fabric mod
 
-<p align="left">you can call me Hayden.</p>
+<a href="https://www.github.com/haydenykh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/haydenykh?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.x.com/haydenykh_" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/haydenykh_?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"
+/></a><a href="https://www.twitch.tv/haydenykh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/haydenykh?logo=twitchsx&style=for-the-badge&color=3382ed&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
-###
-
-
-<div align="left">
-  <img src="https://profile-counter.glitch.me/haydenykh/count.svg?"  />
-</div>
-
-###
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haydenykh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=false&order=1&custom_title=My%20Statistics" height="128" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haydenykh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=discord_old_blurple&hide_border=false&order=2&custom_title=My%20Most%20Used%20Languages" height="128" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=haydenykh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="128" alt="streak graph"  />
-</div>
-
-###
+### Skills
 
 
-<h6 align="center">my social medias</h6>
-
-###
-
-
-<div align="left">
-  <a href="https://twitter.com/@haydenykh_" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="42" height="26" alt="twitter logo"  />
-  </a>
-  <a href="https://discord.com/users/900561055472840724" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="26" alt="discord logo"  />
-  </a>
-  <a href="https://youtube.com@haydenykh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="26" alt="youtube logo"  />
-  </a>
-  <a href="https://instagram.com/@haydenykh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="26" alt="instagram logo"  />
-  </a>
-  <a href="https://linktr.ee/haydenykh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="42" height="26" alt="linktree logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/16947480" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="42" height="26" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.twitch.tv/haydenykh" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="42" height="26" alt="twitch logo"  />
-  </a>
-</div>
-
-###
+<p align="left">
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+</p>
 
 
-<h6 align="center">known languages</h6>
+### Socials
 
-###
+<p align="left"> <a href="https://www.dev.to/haydenykh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /> </picture> </a> <a href="https://discord.com/users/900561055472840724" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.facebook.com/haydenykh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/haydenykh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/haydenykh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.stackoverflow.com/users/16947480" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/haydenykh_" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@haydenykh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a> <a href="https://www.threads.net/@haydenykh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" /> </picture> </a> <a href="https://www.twitch.tv/haydenykh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /> </picture> </a></p>
 
+### Badges
 
-<div align="left">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="26" alt="vscode logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="26" alt="intellij logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/jetbrains/000000" height="26" alt="jetbrains logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="26" alt="github logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="26" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="26" alt="typescript logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/lua/2C2D72" height="26" alt="lua logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="26" alt="blender logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="26" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="26" alt="css3 logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=java" height="26" alt="java logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="26" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg" height="26" alt="discordjs logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/markdown/000000" height="26" alt="markdown logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/latex/008080" height="26" alt="latex logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="26" alt="nodejs logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="26" alt="npm logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="26" alt="trello logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="26" alt="yarn logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/apple/000000" height="26" alt="apple logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=ai" height="26" alt="adobeillustrator logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=pr" height="26" alt="adobepremierepro logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=ps" height="26" alt="adobephotoshop logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="26" alt="oracle logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/replit/F26207" height="26" alt="replit logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/stackoverflow/F58025" height="26" alt="stackoverflow logo"  />
-</div>
+<b>My GitHub Stats</b>
 
-<!--
-###
+<a href="http://www.github.com/haydenykh"><img src="https://github-readme-stats.vercel.app/api?username=haydenykh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="haydenykh's GitHub stats" /></a>
 
+<a href="https://github.com/haydenykh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenykh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<h6 align="center">recently played Spotify song</h6>
+<b>Top Repositories</b>
 
-###
-
-<p align="center">[![Spotify recently played](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdfdyvhimbrqtd5fz3i59kn74&redirect=true\)\](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=jdfdyvhimbrqtd5fz3i59kn74&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)</p>
-
-###
-
-
-<img src="https://raw.githubusercontent.com/haydenykh/haydenykh/output/snake.svg" alt="Snake animation" />
-
-###
--->
+<div width="100%" align="center"><a href="https://github.com/haydenykh/BlocksNStuffs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=haydenykh&repo=BlocksNStuffs&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
