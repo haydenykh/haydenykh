@@ -45,7 +45,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-ceb512?style=for-the-badge&logo=javascript" alt="JavaScript"></a>
 <a href="https://typescriptlang.org"><img src="https://img.shields.io/badge/TypeScript-00558f?style=for-the-badge&logo=typescript" alt="TypeScript"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5"><img src="https://img.shields.io/badge/HTML-a43215?style=for-the-badge&logo=html5" alt="HTML"></a>
-<a href="https://www.w3.org/TR/css/#css"><img src="https://img.shields.io/badge/CSS-rebeccapurple?style=for-the-badge&logo=css" alt="HTML"></a></div>
+<a href="https://www.w3.org/TR/css/#css"><img src="https://img.shields.io/badge/CSS-rebeccapurple?style=for-the-badge&logo=css" alt="HTML"></a>
+<a href="https://java.com"><img src="https://img.shields.io/badge/java-ED1C24?style=for-the-badge&logo=openjdk" alt="Java"></a></div>
 <h4 align="center">Tools<br/><div style="font-size:.67em;">(not fully mastered)</div></h4>
 <div align="center">
 <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS%20Code-005f93?style=for-the-badge" alt="VS Code"></a>
