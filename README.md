@@ -5,11 +5,11 @@
 
 <h2 align="center">🎖️ | <u>GitHub Stats</u></h1>
 <div align="center">
-<a href="http://www.github.com/haydenykh"><img width="40%" src="https://github-readme-stats.vercel.app/api?username=haydenykh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="haydenykh's GitHub stats"></a>
+<a href="http://www.github.com/haydenykh"><img width="40%" src="https://github-stats-extended.vercel.app/api?username=haydenykh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="haydenykh's GitHub stats"></a>
 
-<a href="https://github.com/haydenykh" align="left"><img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haydenykh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"></a>
+<a href="https://github.com/haydenykh" align="left"><img width="35%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=haydenykh&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages"></a>
 
-<a href="https://github.com/haydenykh/BlocksNStuffs" align="left"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=haydenykh&repo=BlocksNStuffs&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en"></a></div>
+<a href="https://github.com/haydenykh/BlocksNStuffs" align="left"><img width="40%" src="https://github-stats-extended.vercel.app/api/pin/?username=haydenykh&repo=BlocksNStuffs&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en"></a></div>
 
 <br/>
 
